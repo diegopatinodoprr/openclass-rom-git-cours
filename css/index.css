@@ -1,0 +1,13 @@
+
+.titre {
+    display: block;
+    text-align: center;
+    color: red;
+    font-family: Arial;
+}
+.contenu{
+    color: green;
+    font-style: italic;
+    display: block;
+    text-align: center;
+}
